@@ -1,6 +1,7 @@
 # Add 2 Numbers
 
 ## Run
+javac Main.java
 java Main
 
 ## Example
